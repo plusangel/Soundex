@@ -10,5 +10,5 @@ else()
     message(WARNING "The file conanbuildinfo.cmake doesn't exist, you have to run conan install first")
 endif()
 
-add_executable(Soundex Soundex.cpp)
+add_executable(Soundex Test.cpp Soundex.cpp Soundex.h)
 target_link_libraries(Soundex ${CONAN_LIBS})

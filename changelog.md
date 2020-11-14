@@ -1,5 +1,8 @@
 ## changelog of my playground
 
+### v0.0.3 14/11/2020
+Fixture added
+
 ### v0.0.2 14/11/2020
 Zero padding added
 
