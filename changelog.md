@@ -1,5 +1,8 @@
 ## changelog of my playground
 
+### v0.0.4 17/11/2020
+Refactoring of the class structure
+
 ### v0.0.3 14/11/2020
 Fixture added
 
