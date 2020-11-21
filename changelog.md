@@ -1,5 +1,8 @@
 ## changelog of my playground
 
+### v0.0.14 21/11/2020
+Update the compiler in the profile
+
 ### v0.0.13 21/11/2020
 Folders' rearrangement
 

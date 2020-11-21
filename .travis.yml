@@ -8,6 +8,7 @@ script:
   - sudo apt-get install python3-setuptools
   - sudo apt-get install python3-pip
   - pip3 install conan
+  - conan profile update settings.compiler.libcxx=libstdc++11 default
   - mkdir -p build
   - conan install . -s build_type=Debug --install-folder=build --build=missing
   - chmod +x build.sh
