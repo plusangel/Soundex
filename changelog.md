@@ -1,5 +1,8 @@
 ## changelog of my playground
 
+### v0.0.17 21/11/2020
+sh updated
+
 ### v0.0.16 21/11/2020
 CMakeLists.txt refactored
 
