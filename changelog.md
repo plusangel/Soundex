@@ -1,5 +1,7 @@
 ## changelog of my playground
 
+### v0.0.13 21/11/2020
+Folders' rearrangement
 
 ### v0.0.12 21/11/2020
 Conan path fixed
