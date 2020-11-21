@@ -1,5 +1,8 @@
 ## changelog of my playground
 
+### v0.0.16 21/11/2020
+CMakeLists.txt refactored
+
 ### v0.0.15 21/11/2020
 Update the compiler in the profile
 

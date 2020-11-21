@@ -2,8 +2,8 @@
 // Created by angelos on 14/11/2020.
 //
 
-#include <gmock/gmock.h>
 #include "Soundex.h"
+#include <gmock/gmock.h>
 
 using namespace testing;
 
