@@ -1,5 +1,9 @@
 ## changelog of my playground
 
+
+### v0.0.12 21/11/2020
+Conan path fixed
+
 ### v0.0.11 21/11/2020
 Relax the CMake request
 
