@@ -4,6 +4,7 @@ compiler: gcc
 os: linux
 
 script:
+  - apt-get install python3-pip
   - pip3 install conan
   - conan install . -s build_type=Debug --install-folder=cmake-build-debug --build=missing
   - chmod +x build.sh
