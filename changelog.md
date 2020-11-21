@@ -1,5 +1,8 @@
 ## changelog of my playground
 
+### v0.0.11 21/11/2020
+Relax the CMake request
+
 ### v0.0.10 21/11/2020
 Testing the travis CI with conan attempt #6
 
