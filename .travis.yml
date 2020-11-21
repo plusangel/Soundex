@@ -5,8 +5,8 @@ os: linux
 
 script:
   - sudo apt-get update
-  - apt-get install python3-pip
-  - sudo pip3 install conan
+  - sudo apt-get install python3-pip
+  - pip3 install conan
   - conan install . -s build_type=Debug --install-folder=cmake-build-debug --build=missing
   - chmod +x build.sh
   - ./build.sh
