@@ -1,5 +1,8 @@
 ## changelog of my playground
 
+### v0.0.5 21/11/2020
+Testing the travis CI with conan attempt #1
+
 ### v0.0.4 17/11/2020
 Refactoring of the class structure
 
