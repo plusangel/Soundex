@@ -1,5 +1,8 @@
 ## changelog of my playground
 
+### v0.0.8 21/11/2020
+Testing the travis CI with conan attempt #4
+
 ### v0.0.7 21/11/2020
 Testing the travis CI with conan attempt #3
 
