@@ -1,5 +1,8 @@
 ## changelog of my playground
 
+### v0.0.19 26/11/2020
+Travis CI debugging
+
 ### v0.0.18 26/11/2020
 Added a few more tests, and refactored of the travis script
 

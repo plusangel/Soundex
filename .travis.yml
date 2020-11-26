@@ -14,6 +14,7 @@ install:
   - conan install . -s build_type=Debug --install-folder=build --build=missing
 
 script:
+  - cd build
   - cmake -DCMAKE_BUILD_TYPE=Debug ..
   - cmake --build . --target all --config Debug -- -j $(nproc)
   - cmake --build . --target soundex_test -- -j $(nproc)
