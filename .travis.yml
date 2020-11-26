@@ -5,8 +5,9 @@ os: linux
 
 script:
   - sudo apt-get update
-  - sudo apt-get install python3-setuptools
-  - sudo apt-get install python3-pip
+  - sudo apt-get install -y python3-setuptools
+  - sudo apt-get install -y python3-pip
+  - sudo apt-get clean
   - pip3 install conan
   - mkdir -p build
   - conan profile new default --detect
