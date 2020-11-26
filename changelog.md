@@ -1,5 +1,8 @@
 ## changelog of my playground
 
+### v0.0.20 26/11/2020
+Travis CI debugging
+
 ### v0.0.19 26/11/2020
 Travis CI debugging
 

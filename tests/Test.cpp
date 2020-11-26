@@ -46,3 +46,8 @@ TEST_F(SoundexEncoding, CombinesDuplicateEncodings) {
   ASSERT_THAT(soundex.encodedDigit('d'), Eq(soundex.encodedDigit('t')));
   ASSERT_THAT(soundex.encode("Abfcgdt"), Eq("A123"));
 }
+
+int main(int argc, char **argv) {
+  ::testing::InitGoogleTest(&argc, argv);
+  return RUN_ALL_TESTS();
+}
